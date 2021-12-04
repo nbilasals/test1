@@ -14,3 +14,4 @@ for i in range (awal, akhir+1, dec) :
     print ( " " )
 print ( ' Jumlah Bilangan Ganjil : ',tganjil)
 print ( ' Jumlah Bilangan Genap : ',tgenap)
+print ( ' KELOMPOK 2 GRAFKOM ')
